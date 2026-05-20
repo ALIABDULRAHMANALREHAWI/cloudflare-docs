@@ -283,6 +283,9 @@
 /analytics/analytics-integrations/looker/ /analytics/analytics-integrations/ 301
 /analytics/network-analytics/reference/network-analytics-v1/ /analytics/graphql-api/migration-guides/network-analytics-v2/ 301
 
+# web analytics permalink for beacon endpoint error message
+/web-analytics/faq/405-error/ /web-analytics/faq/#why-am-i-getting-a-405-method-not-allowed-error-from-cdn-cgirum 301
+
 # api-shield
 /api-shield/security/sequential-abuse-detection/ /api-shield/security/sequence-analytics/ 301
 /api-shield/security/bola-attack-detection/ /api-shield/security/bola-vulnerability-detection/ 301
@@ -687,6 +690,7 @@
 /email-routing/enable-email-routing/ /email-routing/get-started/enable-email-routing/ 301
 /email-routing/get-started/email-addresses/ /email-routing/setup/email-routing-addresses/ 301
 /email-routing/known-limitations/ /email-routing/postmaster/ 301
+/email-routing/email-workers/demos/ /email-routing/email-workers/ 301
 # firewall
 /firewall/api/cf-lists/ /waf/tools/lists/lists-api/ 301
 /firewall/api/cf-lists/endpoints/ /waf/tools/lists/lists-api/endpoints/ 301
